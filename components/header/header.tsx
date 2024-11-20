@@ -33,8 +33,8 @@ const CustomHeader = () => {
         key: 'news',
     },
     {
-        label:'Eventos',
-        key: 'events',
+        label:'Escotismo',
+        key: 'scouting',
     }
     ];
 
