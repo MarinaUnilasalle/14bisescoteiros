@@ -1,0 +1,25 @@
+
+@media (max-width: 1190px) {
+    .scouting-container {
+        flex-direction: column;
+        align-items: center;
+    }
+    .scout-image{
+        order:1;
+        padding: 48px 0;
+    }
+    .what-is-scouting{
+        order:2;
+        padding: 12px 0;
+    }
+  }
+
+  @media (max-width: 890px) {
+    .what-is-scouting{
+        max-width: 764px;
+        width: auto;
+    }
+    .scouting-branches{
+        width: auto;
+    }
+  }
